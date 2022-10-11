@@ -9,4 +9,6 @@ seanezell/seanezell is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 [![@duskman's Holopin board](https://holopin.io/api/user/board?user=duskman)](https://holopin.io/@duskman)
+--->
