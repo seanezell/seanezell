@@ -8,3 +8,5 @@ I have language experience in javascript/nodejs, terraform, yml, vtl, c#, php
 seanezell/seanezell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![@duskman's Holopin board](https://holopin.io/api/user/board?user=duskman)](https://holopin.io/@duskman)
