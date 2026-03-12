@@ -4,6 +4,9 @@ Currently I'm working on serverless technologies, primarily AWS services such as
 
 I have language experience in javascript/nodejs, terraform, yml, vtl, c#, php
 
+
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanezell)](https://github.com/seanezell/github-readme-stats)
+
 <!---
 seanezell/seanezell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
