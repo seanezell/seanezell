@@ -1,17 +1,33 @@
-Hello, I'm Sean and I'm a Senior Software Engineer. This is my personal playground.
+Hello, I'm Sean and I'm a Senior Software Engineer.
 
-Currently I'm working on serverless technologies, primarily AWS services such as API Gateway, Lambda, S3, DynamoDB, Cognito, etc.
+## 📬 Connect:
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/seanezell/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/seanezell"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://x.com/duskman"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="mailto:seanezell@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
 
-I have language experience in javascript/nodejs, terraform, yml, vtl, c#, php
+## 🛠 Tech Stack:
+  
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,cs,terraform,dotnet,php,md,html,bash,powershell" /> |
+| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=nodejs,react,redux,bootstrap,jquery" /> |
+| **Platforms/Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,aws,azure,npm" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,dynamodb,elasticsearch,sqlite" /> |
+  
 
-<!--
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanezell)](https://github.com/seanezell/github-readme-stats)
--->
-<!---
-seanezell/seanezell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
 
-<!---
-[![@duskman's Holopin board](https://holopin.io/api/user/board?user=duskman)](https://holopin.io/@duskman)
---->
+## 📊 GitHub Stats:
+
+<div>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanezell&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seanezell&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seanezell&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seanezell&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seanezell&theme=radical&utcOffset=8">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanezell&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</div>
