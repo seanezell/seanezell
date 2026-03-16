@@ -13,7 +13,7 @@ Hello, I'm Sean and I'm a Senior Software Engineer.
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,terraform,cs,dotnet,php,md,html,bash,powershell" /> |
-| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=nodejs,react,redux,bootstrap,jquery" /> |
+| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=nodejs,react,redux,bootstrap,jquery,nextjs,typescript" /> |
 | **Platforms/Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,aws,npm" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width=48 height=48 /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,dynamodb,elasticsearch,sqlite" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width=48 height=48 /> |
 
