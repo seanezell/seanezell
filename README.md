@@ -3,8 +3,8 @@ Hello, I'm Sean and I'm a Senior Software Engineer.
 ## 📬 Connect:
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/seanezell/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /></a>
-  <a href="https://github.com/seanezell"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" />></a>
-  <a href="https://discord.com/users/215215538215845889"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />></a>
+  <a href="https://github.com/seanezell"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" /></a>
+  <a href="https://discord.com/users/215215538215845889"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" /></a>
   <a href="https://x.com/duskman"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" /></a>
   <a href="mailto:seanezell@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" /></a>
 </div>
